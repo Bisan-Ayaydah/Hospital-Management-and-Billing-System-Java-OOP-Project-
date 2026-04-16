@@ -1,8 +1,3 @@
-//name Bisan Ismael Ayayda
-//ID 1231232
-//lecture sec 3
-//lab sec 4
-
 package proj;
 
 import java.util.*;
